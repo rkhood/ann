@@ -6,4 +6,4 @@ psutil==5.6.7
 pybind11==2.4.3
 pysparnn==0.4
 scikit-learn==0.17.1
-scipy==0.18.1
+scipy==1.10.0
